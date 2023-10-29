@@ -8,3 +8,8 @@ It can be used as a reference how to implement [Tabulator](https://tabulator.inf
 Tabulator is set up in `/src/Table.svelte` and the data in `/src/App.svelte`.
 
 Additionally `luxon.min.js` was added and linked in `index.html` to be able to sort by date.
+
+
+### Usage:
+`npm install`
+`npm run dev`
