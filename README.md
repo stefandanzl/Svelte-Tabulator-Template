@@ -11,5 +11,5 @@ Additionally `luxon.min.js` was added and linked in `index.html` to be able to s
 
 
 ### Usage:
-`npm install`
-`npm run dev`
+- `npm install`
+- `npm run dev`
