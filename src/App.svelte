@@ -1,7 +1,7 @@
 <script>
   //@ts-nocheck
 import Table from "./Table.svelte"
-import {DateTime} from 'luxon'
+
 
 var columns = [ //Define Table Columns
 	 	{title:"Name", field:"name", width:150},

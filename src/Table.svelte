@@ -2,7 +2,7 @@
     //@ts-nocheck
     import {TabulatorFull as Tabulator} from 'tabulator-tables';
     import {onMount} from 'svelte';
-    import {DateTime} from 'luxon'
+  
     
   
     export let data, columns;
